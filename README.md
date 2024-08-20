@@ -160,14 +160,7 @@
 2 - Extract or unzip the folder.
 3 - Launch "Setup.bat" or "Setup.py".
 ```
-Or
-```
-1 - Open a terminal.
-2 - Write "git clone https://github.com/aogiriqg/aogiriqg.git"
-3 - Write "cd RedTiger-Tools"
-4 - Write "git pull"
-5 - Write "python Setup.py"
-```
+
 </p>
 
 <h1>⚠️・Terms of use:</h1>
