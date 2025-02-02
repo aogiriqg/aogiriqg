@@ -1,6 +1,6 @@
 # 🕵️‍♂️ [aogiriqg] 
 
-![Ninja Coding](https://media.giphy.com/media/3o7TKTqCnEJLpI4gXu/giphy.gif)
+![Ninja Coding]([https://media.giphy.com/media/3o7TKTqCnEJLpI4gXu/giphy.gif](https://cdn.discordapp.com/attachments/1270732279462887555/1335594061188562974/dee7851208617e0febcb569fd10ded72.gif?ex=67a0bc66&is=679f6ae6&hm=a4c9b03a2c4bae06c2813b3062a9ee51513b1e0fd7061af24b5defc401b2d748&))
 
 ---
 
